@@ -1,0 +1,135 @@
+absl-py==2.1.0
+antlr4-python3-runtime==4.8
+audioread==3.0.1
+bitarray==3.4.2
+braceexpand==0.1.7
+cachetools==5.3.3
+certifi==2024.2.2
+cffi==1.15.1
+charset-normalizer==3.3.2
+click==8.1.7
+clip @ git+https://github.com/openai/CLIP.git@a1d071733d7111c9c014f024669f959182114e33
+colorama==0.4.6
+cycler==0.11.0
+Cython==3.0.12
+decorator==4.4.2
+docker-pycreds==0.4.0
+easydict==1.13
+# Editable install with no version control (fairseq==1.0.0a0)
+-e /public/home/qinxy/zhangzs/SLSforASVspoof-2021-DF-main/SLSforASVspoof-2021-DF-main/fairseq-a54021305d6b3c4c5959ac9395135f63202db8f1
+faiss-gpu @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/faiss_gpu-1.7.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+ffmpeg-python==0.2.0
+filelock==3.12.2
+fonttools==4.38.0
+fsspec==2023.1.0
+ftfy==6.1.1
+future==1.0.0
+gitdb==4.0.11
+GitPython==3.1.43
+google-auth==2.32.0
+google-auth-oauthlib==0.4.6
+grpcio==1.62.3
+h5py==3.8.0
+huggingface-hub==0.16.4
+hydra-core==1.0.7
+idna==3.7
+imageio @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/imageio-2.26.1-py3-none-any.whl
+imageio-ffmpeg==0.4.9
+imgviz==1.7.5
+importlib-metadata==6.7.0
+importlib-resources==5.12.0
+joblib @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/joblib-1.2.0-py3-none-any.whl
+kiwisolver==1.4.5
+labelme==5.2.1
+laion-clap==1.1.2
+lazy_loader==0.4
+librosa==0.9.1
+llvmlite==0.39.1
+loguru==0.7.2
+lxml==5.4.0
+Markdown==3.4.4
+MarkupSafe==2.1.5
+matplotlib==3.5.3
+mir-eval==0.7
+moviepy==1.0.3
+msgpack==1.0.5
+natsort==8.4.0
+networkx @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/networkx-2.6.3-py3-none-any.whl
+numba==0.56.4
+numpy==1.21.6
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+oauthlib==3.2.2
+omegaconf==2.0.6
+onnx==1.8.1
+onnx-simplifier==0.3.5
+onnxoptimizer==0.3.13
+onnxruntime==1.8.0
+opencv-python==4.9.0.80
+packaging==24.0
+pandas @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/pandas-1.2.3-cp37-cp37m-manylinux1_x86_64.whl
+Pillow==9.5.0
+platformdirs==4.0.0
+pooch==1.8.1
+portalocker==2.7.0
+proglog==0.1.10
+progressbar==2.5
+protobuf==3.20.3
+psutil==5.9.8
+pyarrow==12.0.1
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pycparser==2.21
+pyparsing==3.1.4
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.14
+PyQt5-sip==12.13.0
+python-dateutil==2.9.0.post0
+pytorch-lightning @ file:///public/home/qinxy/jz/pytorch_lightning-1.9.0-py3-none-any.whl
+pytz @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/pytz-2023.2-py2.py3-none-any.whl
+PyWavelets @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/PyWavelets-1.2.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl
+PyYAML==6.0.1
+QtPy==2.4.1
+regex==2024.4.16
+requests==2.31.0
+requests-oauthlib==2.0.0
+resampy==0.4.3
+rsa==4.9
+sacrebleu==2.4.2
+safetensors==0.4.3
+scikit-image @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/scikit_image-0.18.3-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl
+scikit-learn==1.0.2
+scipy==1.7.3
+sentry-sdk==2.3.1
+setproctitle==1.3.3
+six==1.16.0
+smmap==5.0.1
+soundfile==0.12.1
+soxr==0.3.7
+tabulate==0.9.0
+tensorboard==2.11.2
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorboardX==2.5
+thop @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/thop-0.1.1.post2209072238-py3-none-any.whl
+threadpoolctl @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/threadpoolctl-3.1.0-py3-none-any.whl
+tifffile @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/tifffile-2021.11.2-py3-none-any.whl
+tokenizers==0.13.3
+torch @ file:///public/software/apps/DeepLearning/whl/dtk-23.04/pytorch/torch-1.13/abi0/py37/torch-1.13.1%2Bgit55d300e.abi0.dtk2304-cp37-cp37m-manylinux2014_x86_64.whl#sha256=140a96873fef85b6fce6bd5954e856d67007910a0de9f743da9dee0788064a27
+torchaudio @ file:///public/software/apps/DeepLearning/whl/dtk-23.04/pytorch/torch-1.13/abi0/py37/torchaudio-0.13.1%2B8bfbf47.abi0.dtk2304.torch1.13.1-cp37-cp37m-manylinux2014_x86_64.whl#sha256=29a88d4e6626f7f98a595f369969636cb9e4b94bf5a8fb6ebd0149310963b5dd
+torchlibrosa==0.1.0
+torchstat @ file:///public/home/qinxy/ld/MA-Unet_03_22/packages/torchstat-0.0.7-py3-none-any.whl
+torchvision @ file:///public/software/apps/DeepLearning/whl/dtk-23.04/pytorch/torch-1.13/abi0/py37/torchvision-0.14.1%2Bgit9134838.abi0.dtk2304.torch1.13-cp37-cp37m-manylinux2014_x86_64.whl#sha256=ed9ed716f7c0755b1be0a9eeb6bc2e4554d25d7df854f59a0f7f450367f91658
+tqdm==4.66.4
+transformers==4.30.0
+typing_extensions==4.7.1
+urllib3==2.0.7
+wandb==0.17.0
+wcwidth==0.2.13
+webdataset==0.2.86
+Werkzeug==2.2.3
+wget==3.2
+-e git+https://github.com/xk-wang/MusicYOLO@d980a0c0a3723a6c25772c2f7150a82baa1a4ec3#egg=yolox
+zipp==3.15.0
