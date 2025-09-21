@@ -1,6 +1,7 @@
 # THE IMPACT OF AUDIO WATERMARKING ON AUDIO ANTI-SPOOFING COUNTERMEASURES
 
 This repository provides the official implementation for our paper: **[THE IMPACT OF AUDIO WATERMARKING ON AUDIO ANTI-SPOOFING COUNTERMEASURES](https://someonepaper.com)** .
+Explore the interactive demo and visualizations [here](https://alphawarheads.github.io/Watermark_spoofing_demo/).
 
 ## What’s inside
 
